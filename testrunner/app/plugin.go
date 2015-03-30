@@ -2,7 +2,7 @@ package app
 
 import (
 	"fmt"
-	"github.com/revel/revel"
+	"github.com/zofuthan/revel"
 )
 
 func init() {

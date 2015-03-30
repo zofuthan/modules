@@ -11,8 +11,8 @@
 package jobs
 
 import (
-	"github.com/revel/revel"
 	"github.com/robfig/cron"
+	"github.com/zofuthan/revel"
 	"strings"
 	"time"
 )

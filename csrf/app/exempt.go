@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/revel/revel"
+	"github.com/zofuthan/revel"
 )
 
 var (

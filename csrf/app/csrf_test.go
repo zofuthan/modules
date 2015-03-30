@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/revel/revel"
+	"github.com/zofuthan/revel"
 )
 
 var testFilters = []revel.Filter{
